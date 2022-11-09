@@ -1,0 +1,53 @@
+{
+    "selected_preset":"/baseapp/smartAcquiringRestApi/loginVerification",
+    "key": [
+        "/baseapp/smartAcquiringRestApi/loginVerification",
+        "/baseapp/smartAcquiringRestApi/operationRecord",
+        "/baseapp/smartAcquiringRestApi/receivingLogo",
+        "/uapws/rest/syncoainfo/ReimburseInquiry"
+    ],
+    "/baseapp/smartAcquiringRestApi/loginVerification": {
+        "source_system": "",
+        "user_code": "",
+        "user_password": ""
+    },
+    "/baseapp/smartAcquiringRestApi/operationRecord": {
+        "source_system": "",
+        "deposit": {
+            "operator_code": "",
+            "operator_name": "",
+            "jkbxr_code": "",
+            "jkbxr_name": "",
+            "manager_code": "",
+            "manager_name": "",
+            "manager_position": "",
+            "manager_organization": "",
+            "manager_business": "",
+            "push_time": "",
+            "deposit_time": "",
+            "depositor_temperature": "",
+            "pickup_time": "",
+            "pickup_status": "",
+            "djbh": "",
+            "cabinet": ""
+        },
+        "pickup": {
+            "pickup_code": "",
+            "pickup_name": "",
+            "pickup_number": "",
+            "pickup_time": "",
+            "cabinet": ""
+        }
+    },
+    "/baseapp/smartAcquiringRestApi/receivingLogo": {
+        "source_system": "",
+        "symbol": "",
+        "djbh": ""
+    },
+    "/uapws/rest/syncoainfo/ReimburseInquiry": {
+        "source_system": "",
+        "djbh": "",
+        "size": "",
+        "page": ""
+    }
+}

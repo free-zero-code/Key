@@ -1,0 +1,17 @@
+
+spring:
+  banner:
+    charset: UTF-8
+    location: file:config/banner.txt
+  mvc:
+    static-path-pattern: /**
+  web:
+    resources:
+      static-locations: file:static/
+
+server:
+  port: 99
+
+version: 'V1.1.0-RELEASE'
+
+name: 'request'
